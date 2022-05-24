@@ -1,0 +1,2380 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader>
+        <eadid countrycode="US" mainagencycode="US-nrge">nrge_0004</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Douglass Crockwell collection,<date normal="1897/1976" type="inclusive">1897-1976</date>,<date normal="1934/1968" type="bulk">1934-1968</date>
+                </titleproper>
+                <author>Ken Fox</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>George Eastman Museum</publisher>
+                <p>
+                    <date>2016</date>
+                </p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created by Ken Fox, Project Archivist, George Eastman Museum, Moving Image Department, April<date normal="2014">2015</date>
+            </creation>
+            <langusage>
+                <language langcode="eng">English</language>
+            </langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <head>Descriptive Summary</head>
+            <unittitle encodinganalog="245">Douglass Crockwell collection,,</unittitle>
+            <unitdate type="inclusive" normal="1897/1976" label="Dates:">1897,1976</unitdate>
+            <unitdate type="bulk" normal="1934/1968" label="Dates:">1934-1968</unitdate>
+            <physdesc>
+                <extent encodinganalog="300" label="Physical Extent:">30.1 cubic feet (1 document box, 1 oversize box, and 96 Mutoscope boxes)</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname>George Eastman Museum</corpname>
+            </origination>
+            <repository label="Repository:">
+                <corpname>George Eastman Museum<subarea>Moving Image Department</subarea>
+                </corpname>
+                <address>
+                    <addressline>George Eastman Museum</addressline>
+                    <addressline>900 East Avenue</addressline>
+                    <addressline>Rochester, NY 14607</addressline>
+                    <addressline>Phone: 585-271-3361</addressline>
+                    <addressline>Fax: 585-###-####</addressline>
+                    <addressline>Email: stills@eastman.org</addressline>
+                    <addressline>URL: www.eastman.org</addressline>
+                </address>
+            </repository>
+            <abstract label="Content Abstract:">Spencer Douglass Crockwell was a commercial illustrator, experimental filmmaker, inventor, Mutoscope collector, amateur scientist, and Glens Falls, New York, resident. The Douglass Crockwell Collection contains Mr. Crockwell's personal papers, professional documents, films, Mutoscope reels, flip books, drawings, and photographs documenting his professional, civic, and personal life.</abstract>
+            <unitid label="Accession Number:" encodinganalog="099" repositorycode="US-nrge" countrycode="US"/>
+            <langmaterial encodinganalog="546">Collection materials are in<language langcode="eng">English</language>.</langmaterial>
+            <physloc encodinganalog="852" label="Location:">Collection materials are located onsite.</physloc>
+        </did>
+        <descgrp type="admininfo">
+            <accessrestrict encodinganalog="506">
+                <head>Access Restrictions</head>
+                <p>This collection is open to research upon request.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>George Eastman Museum holds the rights to the physical materials but not intellectual property rights.</p>
+            </userestrict>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>The earliest acquisition of collection materials occurred on August 20, 1973, when one table Mutoscope and three Mutoscope reels were received by the George Eastman Museum as an unrestricted gift from Mr. Crockwell's widow, Margaret Crockwell. On March 22, 1974, Mrs. Crockwell transferred most of the Douglass Crockwell Collection to the Eastman Museum with the understanding that one third of the collection would be received as an immediate gift. The remaining balance of the collection -- which included the films -- would be received as a loan for study purposes with the understanding it would be accessioned into the permanent collection as a gift within the next two years. On December 6, 1978, an unconditional gift of one 16mm film print of<title xlink:type="simple" render="italic">Glens Falls Sequence</title>was made to Eastman House by Mr. Crockwell's son, Douglass Crockwell Jr. Mrs. Douglass Crockwell made an additional gift to Eastman House of Mr. Crockwell's Pan-Stereo cameras and viewers on October 15, 1980.</p>
+            </acqinfo>
+            <custodhist encodinganalog="651">
+                <head>Custodial History</head>
+                <p>Collection materials were created or collected by Mr. Crockwell and maintained by him during his lifetime. Upon his death the collection was donated to the George Eastman Museum by his widow, Mrs. Douglass Crockwell, and son, Douglass Crockwell Jr.</p>
+            </custodhist>
+            <note>
+                <p>Funding for this finding aid was provided by a grant from the Council on Library and Information Resources&#x2019; Hidden Collections Program.</p>
+            </note>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p>Experimental animator, commercial illustrator, inventor, and amateur physicist Spencer Douglass Crockwell was born in Columbus, Ohio, on April, 29, 1904. His father,<persname>Charles Roland Crockwell</persname>, was a mining engineer with the<corpname>Crockwell Mine &amp; Mill Supply Company</corpname>; his mother,<persname>Cora Amelia Crockwell</persname>(n&#xE9;e Smith), was the daughter of an Iowa attorney. In 1907 the Crockwell family moved to St. Louis, Missouri where, after graduating public high school in 1922, Crockwell entered Washington University. Originally intending to study engineering, Crockwell soon switched to the university's business college, graduating with a B.S. in 1926. While still an undergraduate, however, Crockwell had begun taking courses at the St. Louis School of Fine Arts and would later claim he knew even before commencement that he "wanted to be an artist." (1) After graduation Crockwell continued to study at the St. Louis School of Fine Arts until 1929; the following year he relocated to Chicago where he continued his studies at the American Academy of Art. Crockwell received fellowships to travel to Europe during the summers of 1930 and 1931, and in 1932 Crockwell relocated to Glens Falls, NY. The following year he married painter and Glens Falls native Margaret J. Braman, whom Crockwell had first met while they were both studying art in St. Louis. Settling permanently in Glens Falls, the Crockwells soon became part of a small circle of upstate-New York artists which included the sculptor<persname>David Smith</persname>(whose work the Crockwells collected), Smith's then-wife<persname>Dorothy Dehner</persname>, and<persname>John Graham</persname>. (2) In 1937 their son Douglass Jr. was born, followed by daughters Johanna (b. 1941) and Margaret ("Magsie," b. 1945).</p>
+            <p>Crockwell's successful career as a freelance illustrative painter began in the early 1930s and would continue until two years before his death in 1968. In addition to providing cover and story illustrations for such magazines as<title xlink:type="simple" render="italic">Colliers</title>,<title xlink:type="simple" render="italic">Country Gentleman</title>, and<title xlink:type="simple" render="italic">The Saturday Evening Post</title>(which first hired Crockwell for a cover in 1933), Crockwell received advertising commissions from a wide variety of companies. Prominent among these were<corpname>General Electric</corpname>,<corpname>Welch's</corpname>,<corpname>General Motors</corpname>,<corpname>Brown &amp; Bigelow</corpname>(best-known for their illustrated calendars), the drug manufacturers<corpname>Wyeth Pharmaceuticals</corpname>and<corpname>Lederle Laboratories</corpname>,<corpname>Republic Steel</corpname>, and<corpname>Metro-Goldwyn-Mayer</corpname>, for which Crockwell created the poster art for the 1946 feature film<title xlink:type="simple" render="italic">The Yearling</title>. Illustrations were also commissioned by the<corpname>United Service Organizations</corpname>(USO) and the<corpname>U.S. Army</corpname>,<corpname>Marines</corpname>and the<corpname>Nurse Corps.</corpname>In 1947 Crockwell was hired by the<corpname>United States Brewers Foundation</corpname>(USBF) to provide paintings for their influential "Beer Belongs" ad campaign. Launched in 1946, the campaign rebranded beer as "America's Beverage of Moderation" and attempted to convince post-Prohibition Americans of beer's centrality to wholesome American living -- the kind often depicted by Crockwell in his magazine work. Of the 136 advertisements produced before the campaign came to a close in 1956, 120 were numbered and considered to comprise a subseries titled "Home Life in America." The exact number of ads featuring Crockwell's work is uncertain: According to brochures and biographical notes found among his papers, Crockwell provided illustrations for 110 different ads. More recent research into the "Beer Belongs" campaign, however, estimates the actual number to be closer to 70, roughly half the total number of ads produced.</p>
+            <p>In addition to private commissions, during the 1930s and early 40s Crockwell received federal funds from New Deal agencies to create several important public works. In 1934 he painted<title xlink:type="simple" render="italic">Paper Workers, Finch Pruyn &amp;Co.</title>for the<corpname>Works Progress Administration</corpname>. The canvas, which depicts workers at a Glens Falls paper manufacturing plant, currently belongs to the<corpname>Smithsonian American Art Museum</corpname>in Washington, DC. A second version painted that same year was later donated to the<corpname>Hyde Collection</corpname>, the Glens Falls art museum of which Crockwell was a founding trustee and where he served as director from 1964-1968. Crockwell also created three<corpname>U.S. Post Office</corpname>murals on commission from the<corpname>Treasury Section of Fine Arts</corpname>, formerly the Treasury Section of Painting and Sculpture. The first was<title xlink:type="simple" render="italic">Vermont Industries</title>(1937) for the U.S. Post Office in White River Junction, Vermont, followed by<title xlink:type="simple" render="italic">Endicott, 1901 -- Excavation for the Ideal Factory</title>(1938) in Endicott, NY, and the<title xlink:type="simple" render="italic">Signing of the Treaty of Dancing Rabbit Creek on September 27, 1830</title>, (1941) in Macon, Mississippi.</p>
+            <p>Concurrent with his work as a commercial illustrator, Crockwell also created short animated motion-pictures, many of which employed techniques and devices of his own invention. The earliest of these largely abstract films date from the mid- to late-1930s and bear titles such as<title xlink:type="simple" render="italic">Flower Landscape</title>,<title xlink:type="simple" render="italic">Parade</title>,<title xlink:type="simple" render="italic">Frustration</title>, the series<title xlink:type="simple" render="italic">Fantasmagoria I</title>,<title xlink:type="simple" render="italic">II</title>,<title xlink:type="simple" render="italic">III</title>(1938, 1939, 1940), and<title xlink:type="simple" render="italic">The Chase</title>(1940). Screenings of these films took place at venues such as the<corpname>Museum of Modern Art</corpname>(where, according to a 1940 letter from<persname>Dana Bennett</persname>, one film was exhibited via a "continuous projection machine" [3]) and cinema clubs. As part of the 1946 Art in Cinema program at the<corpname>San Francisco Museum of Art</corpname>, Crockwell compiled several of these early films under the title<title xlink:type="simple" render="italic">Glens Falls Sequence</title>. Many sections of this 10-minute 16mm film (which Crockwell intended to be projected at "silent speed" of 16 frames per second) were created using his own patented paint-on-glass apparatus that enabled Crockwell to photograph images one frame at a time as he applied slow-drying plastic paint to the reverse side of a sheet of glass. Crockwell would then manipulate the paint using razor blades, brushes or his fingers, adding and removing color at will. Crockwell described this device as "an animation easel with the camera mounted overhead and the work area arranged much as a draftsman desk, except that the working area consisted of several movable layers of glass slightly separated."(4)</p>
+            <p>Crockwell filed papers for this painting-on-glass apparatus with a patent attorney in 1937; the patent on this "Method of Producing Animated Pictures" was granted in 1940. In 1947 Crockwell compiled a second film titled<title xlink:type="simple" render="italic">The Long Bodies</title>which included old as well as new material. Nearly all the new footage was produced using Crockwell's wax-slicing machine, patented in July 1948. This device used a rotating meat-slicing blade to shave thin slices from the "long body" of a varicolored block of wax; with each slice, a slightly different shape and color arrangement was revealed. Newly exposed cross-sections were then photographed at a rate of one frame per slice. According to Crockwell's own description, the aim of the device was to produce a "precise and fluid transition between the separate frames of a simple animated sequence" by reducing "the variation between the shapes to almost a mathematical formula." (5) (While Crockwell's wax-slicing machine bore a remarkable resemblance to a similar device constructed in 1919 by the German-American abstract animator<persname>Oskar Fischinger</persname>, there is no evidence that Crockwell had ever seen Fischinger's films or was aware of his techniques.)</p>
+            <p>A third animation machine used by Crockwell in his non-commercial work was the Mutoscope, a coin-operated, moving-image peep-show device patented by the American inventor<persname>Herman Casler</persname>in 1894. Designed for single-user viewing the Mutoscope traditionally used sequential stiff-backed photographs radially mounted onto a circular core. This reel was then turned by a viewer-operated hand crank, the manipulation of which "animated" the images in the manner of a flip-book. Each reel contained approximately 850 cards and lasted about one minute, although the running time depended on the speed at which the spectator turned the crank. Fascinated by the device and its ability to present "sequential art" (Crockwell was less interested in the moving-image aspect of the mechanism), Crockwell became one of the foremost collectors of Mutoscope reels and machines in the U.S. Beginning in the late 1930s Crockwell created many reels of his own, including the<title xlink:type="simple" render="italic">Color Wheels</title>series,<title xlink:type="simple" render="italic">A Long Body</title>,<title xlink:type="simple" render="italic">Random Glow</title>,<title xlink:type="simple" render="italic">Stripes</title>,<title xlink:type="simple" render="italic">Ode to David</title>,<title xlink:type="simple" render="italic">Around the Valley</title>,<title xlink:type="simple" render="italic">Duopusses</title>,<title xlink:type="simple" render="italic">Animation #1</title>, and<title xlink:type="simple" render="italic">Playboy and Dancer Reel</title>. One of these reels was printed by the<corpname>International Mutoscope Reel Company</corpname>and exhibited in a Mutoscope machine in the offices of the<corpname>Museum of Modern Art</corpname>in 1946.(6) In addition to reels using sequences from his own abstract films, Crockwell also created Mutoscope reels from non-sequential "found" images appropriated from advertisements, "girlie magazines," and other media.</p>
+            <p>The culmination of Crockwell's interest in this pre-cinematic device was the exhibition "Mutoscopes," mounted by the<corpname>Museum of Modern Art</corpname>from August 2 through October 1, 1967. In addition to four old "Iron Horses" from Crockwell's collection the exhibit included six Plexiglas-enclosed Mutoscope viewers designed by Crockwell and containing reels he created through a variety of techniques, including painting, photography, printing, lettering, and found imagery. (The use of Plexiglas rather than the cast iron, sheet metal, or oak used in the older machines permitted more than a single person to view the reels at one time). Posters and stills from Crockwell's personal collection were also on display alongside the continuous projection of<title xlink:type="simple" render="italic">The Classic American Mutoscope</title>, a film compilation of nine early Mutoscope reels organized by Crockwell.</p>
+            <p>In 1967 Crockwell also produced several "Thumb Prints," small flip-books featuring his own artwork.</p>
+            <p>In addition to experimental animation, Crockwell also maintained a great interest in the sciences, particularly atomic physics. He wrote and illustrated several unpublished papers on the subject, including "A Special Case of Inertial Induction," "The Magnetic Field Postulate," "Web Space," and "Geometric Forms in the Periodic Table of Elements.&#x201D; In 1954 Crockwell's theory of the particle field was the subject of an "Amateur Scientist" column of<title xlink:type="simple" render="italic">&gt;Scientific American</title>magazine. Crockwell's additional interests in anthropology and epistemology resulted in the papers "Theory of Totems" and "Two Forms of Knowledge," respectively. Throughout the 1960s Crockwell was working on a new invention: a "Pan-Stereo Sweep Camera" that would produce 360-degree panoramic photographs in 3-D.</p>
+            <p>A resident of Glens Falls, New York, until his death in 1968, Crockwell was also an active member of numerous civic organizations. From 1945 until 1948 he served as director of the<corpname>Glens Falls Chamber of Commerce</corpname>, and was a member of the<corpname>Municipal Civil Service Commission</corpname>from 1947 until 1963 when he resigned to become a member of the<corpname>City Planning Board</corpname>. Crockwell was also a member of the<corpname>Glens Falls Board of Education</corpname>from 1951 through 1965 and acting director of the<corpname>Hyde Collection</corpname>from 1964 until his death. His work as both a commercial illustrator and an experimental animator garnered Crockwell numerous awards, including two St. Louis Artists Guild Awards (1930, 1931); the 1942 Art Directors Club of New York Award for best poster; the 1944 and 1945 Art Directors Club of New York Award for best human interest color illustration; the 1947 Art Directors Club of New York Gold Medal for best poster; the Most Outstanding Film Award by Audience Vote at the Sixth Annual Festival of Contemporary Arts at the University of Illinois in 1953; and the 1957 Los Angeles Art Directors Award for best painting.</p>
+            <p>According to his obituary in the Glens Falls'<title xlink:type="simple" render="italic">Post-Star</title>newspaper Crockwell died at his home at 245 Sanford Street on November 30, 1968, after a short, unspecified illness. (7) He was 64 years old.</p>
+            <note>
+                <p>Notes</p>
+                <p>1. "Douglass Crockwell Dies; Famed Artist, Illustrator; Also Known as Civic Leader," The Post-Star (Glens Falls, NY), Dec. 2, 1968.</p>
+                <p>2. Anthony F. Hall, "In One Work of Sculpture, the Stories of Three Local Families,"<title xlink:type="simple" render="italic">Lake George Mirror Magazine</title>, December 14, 2011.</p>
+                <p>3. Dana Bennett to Douglass Crockwell, Douglass Crockwell Collection, George Eastman Museum, Moving Image Department, Paper, Posters and Stills Collection, Rochester, NY.</p>
+                <p>4. Douglass Crockwell to Frank Stauffacher,<title xlink:type="simple" render="italic">Art in Cinema: Documents Toward a History of the Film Society</title>, ed. Scott MacDonald (Philadelphia: Temple University Press, 2006), 30-31.</p>
+                <p>5. Douglass Crockwell to Charles H. Andros, 29 September 1943, Douglass Crockwell Collection, George Eastman Museum, Moving Image Department, Stills, Posters, and Paper Collection, Rochester, NY.</p>
+                <p>6. Douglas Crockwell, "Peep Show: The Past and Future Mutoscope" draft, Douglass Crockwell Collection, George Eastman Museum, Moving Image Department, Stills, Posters, and Paper Collection, Rochester, NY.</p>
+                <p>7. "Douglass Crockwell Dies."</p>
+            </note>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>The Douglass Crockwell Collection consists of paper documents (including correspondence, notes, manuscripts, and legal records), photographs, drawings, moving-image technology, and moving images in three different formats: 16mm film, flip books, and Mutoscope reels. The bulk of the materials created by Crockwell date from 1939 until his death in 1968, though some documents appear to have been added to the collection as late as 1976 by persons other than the creator. The earliest materials collected by Crockwell are Mutoscope reels dating from 1897.</p>
+            <p>Materials in the collection are mostly related to Crockwell's work in commercial illustration and amateur experimental filmmaking, as well as his involvement with civic organizations in and around the town of Glens Falls, New York. Materials related to his personal life are primarily correspondence to friends and family members. Geographically the materials are limited to the Glens Falls, New York, area, where Crockwell settled in 1932 and lived for the remainder of his life.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351$a">
+            <head>Arrangement of the Collection</head>
+            <p>Collection materials are arranged in four series according to genre, with each series further divided into sub- and sub-subseries according to subject (or in the case of Moving Images, further subdivided according to format). Folders within each series are generally organized according to subject. Though items within folders were not found to follow any discernable arrangement, they were generally left as found. Exceptions include rehousing due to size or instances of obvious misfiling. Any relocation of items is noted within the original folder description.</p>
+            <p>The series and subseries arrangement of the collection materials is as follows:</p>
+            <list type="simple">
+                <item>Series 1, Documents,<unitdate normal="1934/1976" type="inclusive">1934-1976</unitdate>
+                    <list type="simple">
+                        <item>Subseries 1, Moving Images,<unitdate normal="1934/1970" type="inclusive">1934-1970</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                        <item>Subseries 2, Commercial Illustration,<unitdate normal="1966" type="inclusive">1966</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                        <item>Subseries 3, Personal and Civic Affairs,<unitdate normal="1941/1976" type="inclusive">1941-1976</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                        <item>Subseries 4, Inventions,<unitdate normal="1939/1968" type="inclusive">1939-1968</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                        <item>Subseries 5, Scientific Research,<unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                        <item>Subseries 6, Biographical Information,<unitdate normal="1966" type="inclusive">1966</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                    </list>
+                </item>
+                <item>Series 2, Photographs and Illustrations,<unitdate normal="1961/1971" type="inclusive">ca. 1966</unitdate>
+                    <unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                    <list type="simple">
+                        <item>Subseries 1, Photographs,<unitdate normal="1961/1971" type="inclusive">ca. 1966</unitdate>,<unitdate normal="1904/1968" type="bulk">undated</unitdate>[bulk]</item>
+                        <item>Subseries 2, Drawings,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                        </item>
+                    </list>
+                </item>
+                <item>Series 3, Moving Images,<unitdate type="inclusive" normal="1897/1968">1897-1968</unitdate>
+                    <list type="simple">
+                        <item>Subseries 1, Films,<unitdate normal="1932/1942" type="inclusive">ca. 1937</unitdate>,<unitdate normal="1941/1951" type="inclusive">ca. 1946</unitdate>
+                        </item>
+                        <item>Subseries 2, Mutoscope Reels,<unitdate normal="1897/1907" type="inclusive">1897-1907</unitdate>,<unitdate normal="1915" type="inclusive">1915</unitdate>,<unitdate normal="1965" type="inclusive">1965</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                            <list type="simple">
+                                <item>Sub-subseries 1, Collected,<unitdate normal="1897/1907" type="inclusive">1897-1907</unitdate>,<unitdate normal="1915" type="inclusive">1915</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                                </item>
+                                <item>Sub-subseries 2, Created,<unitdate normal="1965" type="inclusive">1965</unitdate>,<unitdate normal="1904/1968" type="inclusive">undated</unitdate>
+                                </item>
+                            </list>
+                        </item>
+                        <item>Subseries 3, Flip Books,<unitdate normal="1962/1972" type="inclusive">ca. 1967</unitdate>
+                        </item>
+                    </list>
+                </item>
+                <item>Series 4, Technology</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <persname encodinganalog="600" source="local">Barr Jr., Alfred H.</persname>
+            <persname encodinganalog="600" source="lcsh">Barry, Iris, 1895-1969</persname>
+            <persname encodinganalog="600" source="lcsh">Breer, Robert</persname>
+            <persname encodinganalog="600" source="local">Casler, Herman</persname>
+            <persname encodinganalog="600" source="local">Cot&#xE9;, Guy L.</persname>
+            <persname encodinganalog="600" source="lcsh">Crockwell, Spencer Douglass, 1904-1968</persname>
+            <persname encodinganalog="600" source="lcsh">Dehner, Dorothy, 1901-1994</persname>
+            <persname encodinganalog="600" source="lcsh">Seldes, Gilbert, 1893-1970</persname>
+            <persname encodinganalog="600" source="lcsh">Slobodkina, Esphyr, 1908-2002</persname>
+            <persname encodinganalog="600" source="lcsh">Vogel, Amos</persname>
+        </controlaccess>
+        <controlaccess>
+            <corpname encodinganalog="610" source="local">American Biograph and Mutoscope Company</corpname>
+            <corpname encodinganalog="610" source="local">Anthology Film Archives</corpname>
+            <corpname encodinganalog="610" source="lcsh">Cinema 16 (Society : New York, N.Y.)</corpname>
+            <corpname encodinganalog="610" source="local">Hyde Collection Art Museum</corpname>
+            <corpname encodinganalog="610" source="lcsh">International Mutoscope Reel Co., Inc.</corpname>
+            <corpname encodinganalog="610" source="local">Millennium Film Workshop</corpname>
+            <corpname encodinganalog="610" source="lcsh">Museum of Modern Art (New York, N.Y.)</corpname>
+            <corpname encodinganalog="610" source="lcsh">San Francisco Museum of Art</corpname>
+        </controlaccess>
+        <controlaccess>
+            <corpname encodinganalog="610" source="local">Animated films.</corpname>
+            <corpname encodinganalog="610" source="local">Commercial art.</corpname>
+            <corpname encodinganalog="610" source="lcsh">Experimental films.</corpname>
+            <corpname encodinganalog="610" source="local">Moving images.</corpname>
+            <corpname encodinganalog="610" source="lcsh">International Mutoscope Reel Co., Inc.</corpname>
+            <corpname encodinganalog="610" source="local">Millennium Film Workshop</corpname>
+            <corpname encodinganalog="610" source="lcsh">Museum of Modern Art (New York, N.Y.)</corpname>
+            <corpname encodinganalog="610" source="lcsh">San Francisco Museum of Art</corpname>
+        </controlaccess>
+        <controlaccess>
+            <corpname encodinganalog="610" source="local">Glens Falls (N.Y.)</corpname>
+        </controlaccess>
+        <controlaccess>
+            <genreform encodinganalog="655" source="aat">acetate film</genreform>
+            <genreform encodinganalog="655" source="aat">black-and-white transparencies</genreform>
+            <genreform encodinganalog="655" source="aat">brochures</genreform>
+            <genreform encodinganalog="655" source="aat">clippings (information artifacts)</genreform>
+            <genreform encodinganalog="655" source="aat">correspondence</genreform>
+            <genreform encodinganalog="655" source="aat">flip books</genreform>
+            <genreform encodinganalog="655" source="aat">greeting cards</genreform>
+            <genreform encodinganalog="655" source="local">Mutoscopes</genreform>
+            <genreform encodinganalog="655" source="aat">optical toys</genreform>
+            <genreform encodinganalog="655" source="aat">patents</genreform>
+            <genreform encodinganalog="655" source="aat">peepshows</genreform>
+            <genreform encodinganalog="655" source="aat">photographs</genreform>
+            <genreform encodinganalog="655" source="aat">programs (documents)</genreform>
+            <genreform encodinganalog="655" source="aat">receipts (financial records)</genreform>
+            <genreform encodinganalog="655" source="aat">sales catalogs</genreform>
+            <genreform encodinganalog="655" source="aat">sketches</genreform>
+            <genreform encodinganalog="655" source="aat">wills</genreform>
+        </controlaccess>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Preferred citation for this material is as follows:</p>
+            <p>Douglass Crockwell Collection, 1897-1976, George Eastman Museum, Moving Image Department, Stills, Posters, and Papers Collection</p>
+        </prefercite>
+        <relatedmaterial>
+            <head>Related Collections</head>
+            <archref xlink:type="simple">
+                <unittitle>Brakhage lectures [sound recording]: Byron Gush, George M&#xE9;li&#xE8;s, Winsor McKay, Man Ray, Douglass Crockwell, Harry Smith</unittitle>
+                <repository>
+                    <corpname>School of the Art Institute of Chicago<subarea>John M. Flaxman Library</subarea>
+                    </corpname>
+                    <extref xlink:type="simple" xlink:href="brakhaglectures">http://vufind.carli.illinois.edu/vf-sai/Record/sai_75796</extref>
+                </repository>
+            </archref>
+            <archref xlink:type="simple">
+                <unittitle>Douglass Crockwell, Spencer, Artist file</unittitle>
+                <repository>
+                    <corpname>Brooklyn Museum</corpname>
+                </repository>
+            </archref>
+            <archref xlink:type="simple">
+                <unittitle>Douglass Crockwell, Biographical file</unittitle>
+                <repository>
+                    <corpname>Ohio State University<subarea>Billy Ireland Cartoon Library &amp; Museum</subarea>
+                    </corpname>
+                    <extref xlink:type="simple" xlink:href="crockwellbiofile">https://cartoons.osu.edu/biographical-files/</extref>
+                </repository>
+            </archref>
+            <archref xlink:type="simple">
+                <unittitle>Crockwell, Douglass, Biographical file</unittitle>
+                <repository>
+                    <corpname>Crandall Public Library (Glens Falls, NY)</corpname>
+                    <extref xlink:type="simple" xlink:href="crockwellbio">http://pac.sals.edu/polaris/search/title.aspx?ctx=29.1033.0.0.3&amp;pos=5</extref>
+                </repository>
+            </archref>
+            <archref xlink:type="simple">
+                <unittitle>Douglass Crockwell illustration collection</unittitle>
+                <repository>
+                    <corpname>Crandall Public Library (Glens Falls, NY)<subarea>Holden Collection</subarea>
+                    </corpname>
+                    <extref xlink:type="simple" xlink:href="illustration">http://pac.sals.edu/polaris/search/title.aspx?ctx=29.1033.0.0.3&amp;pos=3</extref>
+                </repository>
+            </archref>
+            <archref xlink:type="simple">
+                <unittitle>Marlene Park and Gerald E. Markowitz research materials on New Deal Art</unittitle>
+                <unitdate type="inclusive" normal="1931/1999">1931-1999</unitdate>
+                <repository>
+                    <corpname>Smithsonian Institution<subarea>Archives of American Art</subarea>
+                    </corpname>
+                    <extref xlink:type="simple" xlink:href="crockwellillustration">http://www.aaa.si.edu/collections/marlene-park-and-gerald-e-markowitz-research-materials-new-deal-art-6277</extref>
+                </repository>
+            </archref>
+            <archref xlink:type="simple">
+                <unittitle>Oral history interview with Douglass Crockwell, 1965 Feb. 21 (audio tape reel and transcript)</unittitle>
+                <repository>
+                    <corpname>Smithsonian Institution<subarea>Archives of American Art</subarea>
+                    </corpname>
+                    <extref xlink:type="simple" xlink:href="crockwellillustration">http://www.aaa.si.edu/collections/interviews/oral-history-interview-douglass-crockwell-12070</extref>
+                </repository>
+            </archref>
+        </relatedmaterial>
+        <dsc type="combined">
+            <head>Container List Arranged by Series</head>
+            <c id="d1e664" level="series">
+                <did>
+                    <unittitle>Series 1, Documents,,</unittitle>
+                    <unitdate type="inclusive" normal="1934/1976">1934-1976</unitdate>
+                    <unitdate type="inclusive" normal="1904/1976">undated</unitdate>
+                    <langmaterial>Materials are in English.</langmaterial>
+                </did>
+                <c id="d1e675" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1, Moving Images,,</unittitle>
+                        <unitdate type="inclusive" normal="1934/1970">1934-1970</unitdate>
+                        <unitdate type="inclusive" normal="1967/1986">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries comprises correspondence, programs, exhibition brochures, inventories, clippings, and other materials related to Crockwell's moving-image making and collecting activities, both on film and paper (i.e. Mutoscope reels and flip books). Series does not include photographic images from Crockwell's films, which are to be found under "Series 2, Photographs and Illustrations."</p>
+                    </scopecontent>
+                    <c id="d1e689">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e693">
+                            <did>
+                                <container type="folder">1</container>
+                                <unittitle>Crockwell -- Mutoscope collecting;,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1967">1963-1967</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Notes and correspondence regarding Mutoscope collections, acquisitions, and exhibits; handwritten inventories of Mutoscope reel collections.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e707">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>Crockwell -- doodles &amp; sketches;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Pen and pencil drawings including "Thumbprints by Douglass Crockwell" logo doodles; designs for Mutoscopes and other machines (including sketch of a double lens/lamp film projector).</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e718">
+                            <did>
+                                <container type="folder">3</container>
+                                <unittitle>: Crockwell -- film recognition &amp; business;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1954">1949-1954</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1970">1958-1970</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Correspondence regarding acquisition and exhibition of Crockwell's films. Correspondents include<persname>Robert Breer</persname>,<persname>Esphyr Slobodkina</persname>,<persname>Dana Bennett</persname>,<persname>Amos Vogel</persname>, and<persname>Raymond Rohauer</persname>. Includes 1970 contract for the sale of prints of<title xlink:type="simple" render="italic">Glens Falls Sequence</title>and<title xlink:type="simple" render="italic">The Long Bodies</title>.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e757">
+                            <did>
+                                <container type="folder">4</container>
+                                <unittitle>Crockwell --<corpname>MoMA</corpname>correspondence incl. photos;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1944">1934-1944</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1975">1959-1975</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Correspondence regarding Crockwell's films, paintings, Mutoscopes, and the<corpname>Museum of Modern Art's (MoMA)</corpname>1967 "Mutoscopes" exhibition. Correspondents include<persname>Alfred H. Barr Jr.</persname>,<persname>Richard Griffith</persname>,<persname>Iris Barry</persname>,<persname>Margareta Akermark</persname>, and other MoMA personnel. Includes a 1973 letter from<corpname>Anthology Film Archives</corpname>regarding preservation of<title xlink:type="simple" render="italic">Fantasmagoria</title>and the disposition of Crockwell's Mutoscope collection; an 8" x 10" MoMA publicity photograph of "two new Mutoscopes, designed and loaned by Douglass Crockwell"; photocopies of four index cards listing ca. 1889 "Mutoscope Materials."</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e799">
+                            <did>
+                                <container type="folder">6</container>
+                                <unittitle>Crockwell, self promoted efforts;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1945">1944-1945</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1968">1958-1968</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Project-related correspondence and notes, including correspondence between Crockwell and<corpname>Walt Disney Productions</corpname>about the wax-slicing machine; letters to<corpname>CBS</corpname>,<corpname>NBC</corpname>, and<corpname>Cine Television</corpname>regarding an "abstract decorative animation process suitable for television"; letter to<corpname>Eastman-Kodak</corpname>about Crockwell's three-dimensional panoramic 35mm camera and viewer; letters to several publishers proposing an anthology of Crockwell's writings; correspondence with the<corpname>Copyright Office at the Library of Congress</corpname>regarding copies of Mutoscope reels on film.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e835">
+                            <did>
+                                <container type="folder">7</container>
+                                <unittitle>Crockwell television appearance;,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Notes, clippings, and correspondence related to Crockwell's 1967 appearances on<title xlink:type="simple">The Today Show</title>and<title xlink:type="simple">Camera Three</title>promoting the "Mutoscopes" exhibit at the<corpname>Museum of Modern Art</corpname>. Includes a letter from a viewer offering personal reminiscences of the Mutoscope and a Hale's Tours train presentation, and a 1962 letter from Crockwell pitching his animated films for broadcast on<title xlink:type="simple">The Today Show</title>.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e861">
+                            <did>
+                                <container type="folder">8</container>
+                                <unittitle>Crockwell -- television appearance;,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Notes, clippings, and correspondence related to Crockwell's 1967 appearances on<title xlink:type="simple">The Today Show</title>and<title xlink:type="simple">Camera Three</title>promoting the "Mutoscopes" exhibit at the<corpname>Museum of Modern Art</corpname>. Includes a letter from a viewer offering personal reminiscences of the Mutoscope and a Hale's Tours train presentation, and a 1962 letter from Crockwell pitching his animated films for broadcast on<title xlink:type="simple">The Today Show</title>.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e887">
+                            <did>
+                                <container type="folder">9</container>
+                                <unittitle>Crockwell -- misc. receipts -- film series;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1970">1963-1970</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Correspondence, press releases, and brochures from<corpname>Anthology Film Archives</corpname>,<corpname>Millennium Film Workshop</corpname>,<corpname>Cinema 16</corpname>, and<corpname>San Francisco Museum of Art</corpname>receipts, invoices, and notes regarding Mutoscope reels.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e916">
+                            <did>
+                                <container type="folder">10</container>
+                                <unittitle>Crockwell -- articles and manuscripts;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1967">1963-1967</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Notes and drafts of articles regarding the Mutoscope (including Crockwell's "The Past and Present of the Mutoscope"), Crockwell's animation inventions, and the sense of smell. Includes five<corpname>Museum of Modern Art (MoMA)</corpname>"Mutoscopes" exhibition brochures; "Suggestions for Animation"; an April 3, 1949, MoMA press release for the "American Designs for Abstract Films" exhibit, which included Crockwell; and notes for a proposed retrospective book of Crockwell's illustrations.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e936">
+                            <did>
+                                <container type="folder">11</container>
+                                <unittitle>Crockwell -- misc. articles;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948/1956">1948-1956</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Magazine articles, newspaper clippings, and book excerpts regarding Crockwell, experimental animation, Mutoscopes, the "Mutoscopes" exhibition at the<corpname>Museum of Modern Art</corpname>, and the<corpname>International Mutoscope Reel Company</corpname>. Includes a copy of Crockwell's essay "A Background to Free Animation" from Film Culture #32, a<corpname>Cinema 16</corpname>catalog, and program notes from various film series and festivals featuring Crockwell's films.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e962" level="subseries">
+                    <did>
+                        <unittitle>Subseries 2, Commercial Illustration,,</unittitle>
+                        <unitdate type="inclusive" normal="1966">1966</unitdate>
+                        <unitdate type="inclusive" normal="1967/1986">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries consists of documents and photographs related to Crockwell's professional work as a commercial illustrator.</p>
+                    </scopecontent>
+                    <c id="d1e976">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e980">
+                            <did>
+                                <container type="folder">12</container>
+                                <unittitle>[Christmas cards, gallery catalog];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Three Christmas cards, two featuring Crockwell's artwork.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e991">
+                        <did>
+                            <container type="box">C364-OS</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e995">
+                            <did>
+                                <container type="folder">15</container>
+                                <unittitle>[Photographs];,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Black-and-white prints, negatives, and transparencies. Includes contact sheets featuring Crockwell's commercial paintings.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1009">
+                            <did>
+                                <container type="folder">16</container>
+                                <unittitle>[Sketches];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Pencil, pen and ink, and charcoal sketches and related notes. Illustrations include sketch of a holiday sing-along, possibly for the painting used for the 1959<corpname>General Motors</corpname>Christmas card; optical apparatuses, possibly including the Pan-Stereo Sweep camera system; designs for "<persname>Ila Keller</persname>Batik" and "Illustrations by Douglass Crockwell"; sketches of Pirithous battling Eurytion.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1026">
+                            <did>
+                                <container type="folder">19</container>
+                                <unittitle>[Photographs];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Photographic prints, transparencies, and negatives. Includes several untitled reproductions of Crockwell's commercial illustrations.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e1037" level="subseries">
+                    <did>
+                        <unittitle>Subseries 3, Personal and Civic Affairs,</unittitle>
+                        <unitdate type="inclusive" normal="1941/1976">1941-1976</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries includes records related to Crockwell's personal life as well as his activities as a member of civic, municipal, and cultural organizations, mainly in Glens Falls, NY. Prominent are records produced during Crockwell's tenure as director of the Hyde Collection.</p>
+                    </scopecontent>
+                    <c id="d1e1048">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1052">
+                            <did>
+                                <container type="folder">1</container>
+                                <unittitle>Crockwell -- Mutoscope collecting;,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1967">1963-1967</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Meeting notes regarding property value assessments.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1066">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>Crockwell -- doodles &amp; sketches;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Home construction sketches and cost estimates.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1077">
+                            <did>
+                                <container type="folder">12</container>
+                                <unittitle>[Christmas cards, gallery catalog];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Biography of Charlotte Pruyn Hyde, owner of Hyde House.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1088">
+                            <did>
+                                <container type="folder">13</container>
+                                <unittitle>[Envelope labeled: Hyde Collection misc.];,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
+                                <unitdate type="bulk" era="ce" calendar="gregorian" normal="1964/1967">1964-1967 [bulk]</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Correspondence and documents related to the Hyde Collection and Glens Falls-area civic and community activities. Materials originally collected in a manila mailing envelope addressed to Crockwell and labeled "Hyde Coll. Misc."</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1105">
+                            <did>
+                                <container type="folder">14</container>
+                                <unittitle>[Financial notebook];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1948">1946-1948</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Dated record of household employees' wages, withholdings, social security, and payment balances, along with other expenses.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e1116">
+                        <did>
+                            <container type="box">C364-OS</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1120">
+                            <did>
+                                <container type="folder">17</container>
+                                <unittitle>[Correspondence, notes, will];,,,,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1968">1958-1968</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Personal and financial notes; professional, civic and personal correspondence; two letters from father<persname>Charles Roland Crockwell</persname>; meeting minutes from the<corpname>Planning Board of the City of Glens Falls</corpname>; correspondence regarding research on sculptor<persname>David Smith</persname>; Crockwell's last will and testament dated 1951, unsigned.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e1156" level="subseries">
+                    <did>
+                        <unittitle>Subseries 4, Inventions,,</unittitle>
+                        <unitdate type="inclusive" normal="1939/1968">1939-1968</unitdate>
+                        <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries includes correspondence, patent documents, drawings, and sketches related to Crockwell's inventions, mainly the wax-slicing and paint-on-glass apparatuses devised for the creation of animated films.</p>
+                    </scopecontent>
+                    <c id="d1e1170">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1174">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>Crockwell -- doodles &amp; sketches;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Designs for Mutoscopes and other machines (including sketch of a double lens/lamp film projector).</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1185">
+                            <did>
+                                <container type="folder">6</container>
+                                <unittitle>Crockwell -- self promoted efforts;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1945">1944-1945</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1968">1958-1968</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Project-related correspondence and notes, including correspondence between Crockwell and<corpname>Walt Disney Productions</corpname>about the wax-slicing machine; letters to<corpname>CBS</corpname>,<corpname>NBC</corpname>, and<corpname>Cine Television</corpname>regarding an "abstract decorative animation process suitable for television"; letter to<corpname>Eastman-Kodak</corpname>about Crockwell's three-dimensional panoramic 35mm camera and viewer; letters to several publishers proposing an anthology of Crockwell's writings; correspondence with the<corpname>Copyright Office at the Library of Congress</corpname>regarding copies of Mutoscope reels on film.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e1221">
+                        <did>
+                            <container type="box">C364-OS</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1225">
+                            <did>
+                                <container type="folder">16</container>
+                                <unittitle>[Sketches];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Pencil, pen and ink, and charcoal sketches and related notes. Sketches of optical apparatuses, possibly including the Pan-Stereo Sweep camera system.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1236">
+                            <did>
+                                <container type="folder">18</container>
+                                <unittitle>Crockwell -- patent papers;,,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/1949">1939-1949</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Patent documents and other materials related to Crockwell's inventions, particularly the wax-slicing machine and the paint-on-glass apparatus. Documents also include letters related to patent applications, specifications, and amendments. Much of the correspondence is with patent attorney<persname>Charles H. Andros</persname>.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1259">
+                            <did>
+                                <container type="folder">19</container>
+                                <unittitle>[Photographs];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Photographic prints, transparencies, and negatives. Includes a photograph of an Iron Horse Mutoscope alongside a machine of Crockwell's own design and two photos of what is possibly Crockwell's Pan-Stereo Sweep camera and viewer.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e1270" level="subseries">
+                    <did>
+                        <unittitle>Subseries 5, Scientific Research,,</unittitle>
+                        <unitdate type="inclusive" normal="1963/1967">1963-1967</unitdate>
+                        <unitdate type="inclusive" normal="1967/1986">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries comprises manuscripts, articles, and sketches related to Crockwell's interest in atomic physics and other sciences.</p>
+                    </scopecontent>
+                    <c id="d1e1284">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1288">
+                            <did>
+                                <container type="folder">1</container>
+                                <unittitle>Crockwell -- Mutoscope collecting;,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1967">1963-1967</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Notes regarding gravitational and acceleration fields, and diagrams and notes for a "Machine for Inducing a Non-Symmetrical Gradient of the Inertial Field."</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1302">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>Crockwell -- doodles &amp; sketches;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>"Precession of Orbit" diagram.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e1313" level="subseries">
+                    <did>
+                        <unittitle>Subseries 6, Biographical Information,,</unittitle>
+                        <unitdate type="inclusive" normal="1966">1966</unitdate>
+                        <unitdate type="inclusive" normal="1967/1986">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries consists of biographical sketches, curriculum vitae, obituaries, and timelines.</p>
+                    </scopecontent>
+                    <c id="d1e1327">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1331">
+                            <did>
+                                <container type="folder">5</container>
+                                <unittitle>Crockwell -- biographical inc. obit.;,</unittitle>
+                                <unitdate type="inclusive" normal="1966">1966</unitdate>
+                                <unitdate type="inclusive" normal="1967/1986">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Primary and secondary biographical source materials, including<title xlink:type="simple" render="italic">Who's Who in America</title>entry, a circa 1948 biographical essay written by the<corpname>United States Brewers Foundation</corpname>, exhibition brochures, newspaper obituaries, curriculum vitae, and handwritten notes.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+            </c>
+            <c id="d1e1353" level="series">
+                <did>
+                    <unittitle>Series 2, Photographs and Illustrations,,</unittitle>
+                    <unitdate type="inclusive" normal="1961/1972">ca. 1966</unitdate>
+                    <unitdate type="inclusive" normal="1904/1976">undated</unitdate>
+                </did>
+                <c id="d1e1362" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1, Photographs,,</unittitle>
+                        <unitdate type="inclusive" normal="1961/1972">ca. 1966</unitdate>
+                        <unitdate type="bulk" normal="1904/1976">undated [bulk]</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries includes photographic prints, 35mm transparencies, and black-and-white negatives related to Crockwell's personal life as well as his work as commercial illustrator, filmmaker, and inventor.</p>
+                    </scopecontent>
+                    <c id="d1e1376">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1380">
+                            <did>
+                                <container type="folder">4</container>
+                                <unittitle>Crockwell --<corpname>MoMA</corpname>correspondence incl. photos;,,</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1944">1934-1944</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1975">1959-1975</unitdate>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>One 8" x 10"<corpname>Museum of Modern Art (MoMA)</corpname>publicity photograph of "two new Mutoscopes, designed and loaned by Douglass Crockwell."</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e1403">
+                        <did>
+                            <container type="box">C364a</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1407">
+                            <did>
+                                <container type="folder">1</container>
+                                <unittitle>[Photographs from Crockwell's films];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Color frame enlargements from unidentified films printed on Mutoscope cards.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e1418">
+                        <did>
+                            <container type="box">C364-OS</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1422">
+                            <did>
+                                <container type="folder">19</container>
+                                <unittitle>[Photographs];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Photographic prints, transparencies, and negatives. Photographs include frame enlargements from<title xlink:type="simple" render="italic">Glens Falls Sequence</title>and<title xlink:type="simple" render="italic">The Long Bodies</title>of various sizes; several untitled reproductions of Crockwell's commercial illustrations; an Iron Horse Mutoscope alongside a machine of Crockwell's own design; three small color photographs of abstract paintings; three small frame enlargements from the "Calvary" sequence of<title xlink:type="simple" render="italic">Glens Falls Sequence</title>; two photos of what is possibly Crockwell's Pan-Stereo Sweep camera and viewer.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e1442" level="subseries">
+                    <did>
+                        <unittitle>Subseries 2, Drawings,</unittitle>
+                        <unitdate type="inclusive" normal="1904/1976">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries consists of pencil, pen and ink, and charcoal sketches by Crockwell, mostly related to his commercial artwork and inventions.</p>
+                    </scopecontent>
+                    <c id="d1e1453">
+                        <did>
+                            <container type="box">C364</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1457">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>Crockwell -- doodles &amp; sketches;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Pen and pencil drawings including "Thumbprints by Douglass Crockwell" logo doodles; designs for Mutoscopes and other machines (including sketch of a double lens/lamp film projector); home construction sketches and cost estimates; "Precession of Orbit" diagram.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e1468">
+                        <did>
+                            <container type="box">C364-OS</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1472">
+                            <did>
+                                <container type="folder">16</container>
+                                <unittitle>[Sketches];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Pencil, pen and ink, and charcoal sketches and related notes. Illustrations include sketch of a holiday sing-along, possibly for the painting used for the 1959<corpname>General Motors</corpname>Christmas card; optical apparatuses, possibly including the Pan-Stereo Sweep camera system; designs for "<persname>Ila Keller</persname>Batik" and "Illustrations by Douglass Crockwell"; sketches of Pirithous battling Eurytion.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+            </c>
+            <c id="d1e1490" level="series">
+                <did>
+                    <unittitle>Series 3, Moving Images,</unittitle>
+                    <unitdate type="inclusive" normal="1897/1968">1897-1968</unitdate>
+                </did>
+                <c id="d1e1496" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1, Films,,</unittitle>
+                        <unitdate type="inclusive" normal="1932/1942">ca. 1937</unitdate>
+                        <unitdate type="inclusive" normal="1941/1951">1946</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries includes work Crockwell produced on motion-picture film. Includes both positives and negatives. For information regarding access to these films please contact the Film Study Center at the George Eastman Museum (filmstudycenter@eastman.org).</p>
+                    </scopecontent>
+                    <c id="d1e1510">
+                        <did>
+                            <unittitle>[<title xlink:type="simple" render="italic">Fantasmagoria #1</title>];</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925/1968">undated</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (color archival element)</p>
+                            <p>Accession No.: 1975:0007:2067</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1524">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (black-and-white)</p>
+                            <p>Accession No.: 1975:0007:0458</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1537">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (color original reversal)</p>
+                            <p>Accession No.: 1975:0007:0459</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1550">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>35mm acetate negative (color)</p>
+                            <p>Accession No.: 1975:0007:0460</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1563">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (black-and-white)</p>
+                            <p>Accession No.: 1975:0007:0466</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1576">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (black-and-white)</p>
+                            <p>Accession No.: 1975:0007:0468</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1589">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (black-and-white)</p>
+                            <p>Accession No.: 1975:0007:0469</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1602">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm polyester positive (color)</p>
+                            <p>Accession No.: 2002:0053:0001</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1615">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Glens Falls Sequence</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm polyester positive (color)</p>
+                            <p>Accession No.: 2003:0442:0001</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1629">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Long Bodies, The</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>35mm acetate positive (color)</p>
+                            <p>Accession No.: 1975:0007:1235</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1642">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Long Bodies, The</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (color)</p>
+                            <p>Accession No.: 1975:0007:1354</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1655">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Long Bodies, The</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>35mm acetate negative (color)</p>
+                            <p>Accession No.: 1975:0007:1355</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1668">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Long Bodies, The</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate positive (color)</p>
+                            <p>1984:2897:0001</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1681">
+                        <did>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic">Simple Destiny: An Abstract Phantasmagoria</title>;</unittitle>
+                            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+                        </did>
+                        <scopecontent>
+                            <p>16mm acetate negative (black-and-white)</p>
+                            <p>1975:0007:2071</p>
+                        </scopecontent>
+                    </c>
+                    <c id="d1e1694">
+                        <did>
+                            <container type="box">C364-OS</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e1698">
+                            <did>
+                                <container type="folder">20</container>
+                                <unittitle>[Douglass Crockwell,<title xlink:type="simple" render="italic">Glens Falls Sequence</title>segment, 50 frames, 16mm color reversal];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Five strips of acetate safety film mounted between two sheets of glass. No discernible edge code on film stock.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1712">
+                            <did>
+                                <container type="folder">21</container>
+                                <unittitle>[Douglass Crockwell,<title xlink:type="simple" render="italic">Glens Falls Sequence</title>segment, 60 frames, 16mm Kodachrome];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>60 individual frames arranged in six columns of 10 numbered rows, mounted between two sheets of glass. The accompanying legal-sized envelope labeled "Remaining Pieces" and containing strips of 16mm film from the same sequence (some frames are numbered) was moved from its original location in Box 3 to its current location on 5/1/2015.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e1726" level="subseries">
+                    <did>
+                        <unittitle>Subseries 2, Mutoscope Reels,,,,</unittitle>
+                        <unitdate type="inclusive" normal="1897/1907">1897-1907</unitdate>
+                        <unitdate type="inclusive" normal="1915">1915</unitdate>
+                        <unitdate type="inclusive" normal="1965">1965</unitdate>
+                        <unitdate type="inclusive" normal="1895/1976">undated</unitdate>
+                    </did>
+                    <c id="d1e1741" level="subseries">
+                        <did>
+                            <unittitle>Sub-subseries 1, Collected,,,</unittitle>
+                            <unitdate type="inclusive" normal="1897/1907">1897-1907</unitdate>
+                            <unitdate type="inclusive" normal="1915">1915</unitdate>
+                            <unitdate type="inclusive" normal="1895/1976">undated</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Scope and Content</head>
+                            <p>Sub-subseries includes commercially produced Mutoscope reels collected by Crockwell.</p>
+                        </scopecontent>
+                        <c id="d1e1758">
+                            <did>
+                                <container type="box">Box 1</container>
+                                <unittitle>Subject 228:<title xlink:type="simple" render="italic">Dressing Room Scene, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1897</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0001</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1774">
+                            <did>
+                                <container type="box">Box 2</container>
+                                <unittitle>Subject 238:<title xlink:type="simple" render="italic">Affair of Honor, An</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1897</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0002</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1790">
+                            <did>
+                                <container type="box">Box 3</container>
+                                <unittitle>Subject 694:<title xlink:type="simple" render="italic">Tramp and the Muscular Cook, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1898</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0003</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1806">
+                            <did>
+                                <container type="box">Box 4</container>
+                                <unittitle>Subject 881:<title xlink:type="simple" render="italic">'Moving' Picture, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1899</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0004</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1822">
+                            <did>
+                                <container type="box">Box 5</container>
+                                <unittitle>Subject 957:<title xlink:type="simple" render="italic">Reginald's First High Hat</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1899</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0005</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1838">
+                            <did>
+                                <container type="box">Box 6</container>
+                                <unittitle>Subject 1443:<title xlink:type="simple" render="italic">How the Old Maid Got a Husband</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1900</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0006</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1854">
+                            <did>
+                                <container type="box">Box 7</container>
+                                <unittitle>Subject 1527:<title xlink:type="simple" render="italic">Career of Crime. No. 5, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1900</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0007</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1870">
+                            <did>
+                                <container type="box">Box 8</container>
+                                <unittitle>Subject 1576:<title xlink:type="simple" render="italic">Trouble in Hogan's Alley</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1900</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0008</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1886">
+                            <did>
+                                <container type="box">Box 9</container>
+                                <unittitle>Subject 1671:<title xlink:type="simple" render="italic">Good Time Behind the Scenes, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1900</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0009</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1903">
+                            <did>
+                                <container type="box">Box 10</container>
+                                <unittitle>Subject 1874:<title xlink:type="simple" render="italic">Close Shave, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1901</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0010</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1919">
+                            <did>
+                                <container type="box">Box 11</container>
+                                <unittitle>Subject 2479:<title xlink:type="simple" render="italic">Fatal Attempt to Loop-the-loop on a Bicycle, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1903</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0011</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1935">
+                            <did>
+                                <container type="box">Box 12</container>
+                                <unittitle>Subject 2528:<title xlink:type="simple" render="italic">From Show Girl to Burlesque Queen</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1903</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0012</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1951">
+                            <did>
+                                <container type="box">Box 13</container>
+                                <unittitle>Subject 2714-B:<title xlink:type="simple" render="italic">Love and Jealousy Behind the Scenes</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1904</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0013</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1967">
+                            <did>
+                                <container type="box">Box 14</container>
+                                <unittitle>Subject 2944:<title xlink:type="simple" render="italic">Seashore Baby, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1904</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0014</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1983">
+                            <did>
+                                <container type="box">Box 15</container>
+                                <unittitle>Subject 3013:<title xlink:type="simple" render="italic">Al Treloar in Muscle Exercises</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0015</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e1999">
+                            <did>
+                                <container type="box">Box 16</container>
+                                <unittitle>Subject 3060:<title xlink:type="simple" render="italic">Adjustable Chair, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0016</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2015">
+                            <did>
+                                <container type="box">Box 17</container>
+                                <unittitle>Subject 3072:<title xlink:type="simple" render="italic">Japanese-Russian Peace Envoys</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0017</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2031">
+                            <did>
+                                <container type="box">Box 18</container>
+                                <unittitle>Subject 3074-A:<title xlink:type="simple" render="italic">Bertha Claiche: The Lovers</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0018</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2047">
+                            <did>
+                                <container type="box">Box 19</container>
+                                <unittitle>Subject 3076:<title xlink:type="simple" render="italic">She Banked in Her Stocking; or, Robbed of Her All</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0019</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2063">
+                            <did>
+                                <container type="box">Box 20</container>
+                                <unittitle>Subject 3080:<title xlink:type="simple" render="italic">Teasing</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0020</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2080">
+                            <did>
+                                <container type="box">Box 21</container>
+                                <unittitle>Subject 3085-B:<title xlink:type="simple" render="italic">Horse-Thief, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0021</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2096">
+                            <did>
+                                <container type="box">Box 22</container>
+                                <unittitle>Subject 3104:<title xlink:type="simple" render="italic">Airy Fairy Lillian Tries on Her New Corsets</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0022</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2112">
+                            <did>
+                                <container type="box">Box 23</container>
+                                <unittitle>Subject 3099:<title xlink:type="simple" render="italic">Halloween</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0023</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2128">
+                            <did>
+                                <container type="box">Box 24</container>
+                                <unittitle>Subject 3118:<title xlink:type="simple" render="italic">Fight for a Bride, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0024</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2144">
+                            <did>
+                                <container type="box">Box 25</container>
+                                <unittitle>Subject 3134:<title xlink:type="simple" render="italic">The Streets of New York</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0025</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2160">
+                            <did>
+                                <container type="box">Box 26</container>
+                                <unittitle>Subject 3141:<title xlink:type="simple" render="italic">Raid on a Cock Fight, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0026</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2176">
+                            <did>
+                                <container type="box">Box 27</container>
+                                <unittitle>Subject 3206:<title xlink:type="simple" render="italic">Spanish Barbecue</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1906</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0027</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2192">
+                            <did>
+                                <container type="box">Box 28</container>
+                                <unittitle>Subject 3213:<title xlink:type="simple" render="italic">Old Swimming Hole, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1906</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0028</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2208">
+                            <did>
+                                <container type="box">Box 29</container>
+                                <unittitle>Subject 3215:<title xlink:type="simple" render="italic">Convict's Bride, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1906</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0029</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2224">
+                            <did>
+                                <container type="box">Box 30</container>
+                                <unittitle>Subject 3218:<title xlink:type="simple" render="italic">Weighing the Anchor</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1906</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0030</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2240">
+                            <did>
+                                <container type="box">Box 31</container>
+                                <unittitle>Subject 3223-B:<title xlink:type="simple" render="italic">Lone Highwayman, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1906</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0031</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2257">
+                            <did>
+                                <container type="box">Box 32</container>
+                                <unittitle>Subject 3241:<title xlink:type="simple" render="italic">Nelson-McGovern Prize Fight</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1906</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0032</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2273">
+                            <did>
+                                <container type="box">Box 33</container>
+                                <unittitle>Subject 3277:<title xlink:type="simple" render="italic">Colon to Panama Canal Picture</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0033</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2289">
+                            <did>
+                                <container type="box">Box 34</container>
+                                <unittitle>Subject 3278-A:<title xlink:type="simple" render="italic">If You Had a Wife Like This/How Would You Like a Wife Like This?</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0034</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2305">
+                            <did>
+                                <container type="box">Box 35</container>
+                                <unittitle>Subject 3278-C:<title xlink:type="simple" render="italic">If You Had a Wife Like This/How Would You Like a Wife Like This?</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0034A</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2321">
+                            <did>
+                                <container type="box">Box 36</container>
+                                <unittitle>Subject 3293:<title xlink:type="simple" render="italic">Gay Girl Playing Pool</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0035</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2337">
+                            <did>
+                                <container type="box">Box 37</container>
+                                <unittitle>Subject 3302-B:<title xlink:type="simple" render="italic">Opening Day, Jamestown Exposition</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0036</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2353">
+                            <did>
+                                <container type="box">Box 38</container>
+                                <unittitle>Subject 3306:<title xlink:type="simple" render="italic">Dear Little Sister</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0037</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2369">
+                            <did>
+                                <container type="box">Box 39</container>
+                                <unittitle>Subject 3310:<title xlink:type="simple" render="italic">Bigger than He Looked</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0038</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2385">
+                            <did>
+                                <container type="box">Box 40</container>
+                                <unittitle>Subject 3324:<title xlink:type="simple" render="italic">Tenement House Battle, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0039</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2401">
+                            <did>
+                                <container type="box">Box 41</container>
+                                <unittitle>Subject 3327:<title xlink:type="simple" render="italic">Finish of Scrappy Patsey, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0040</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2417">
+                            <did>
+                                <container type="box">Box 42</container>
+                                <unittitle>Subject 3348:<title xlink:type="simple" render="italic">Mags Jag</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0041</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2434">
+                            <did>
+                                <container type="box">Box 43</container>
+                                <unittitle>Subject 3355-A:<title xlink:type="simple" render="italic">Mr. Easy Mark</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0042</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2450">
+                            <did>
+                                <container type="box">Box 44</container>
+                                <unittitle>Subject 3355-B:<title xlink:type="simple" render="italic">Mr. Easy Mark</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0042A</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2466">
+                            <did>
+                                <container type="box">Box 45</container>
+                                <unittitle>Subject 3362:<title xlink:type="simple" render="italic">Light! Fight! White!</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0043</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2482">
+                            <did>
+                                <container type="box">Box 46</container>
+                                <unittitle>Subject 3366:<title xlink:type="simple" render="italic">Crooked Dog</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0044</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2498">
+                            <did>
+                                <container type="box">Box 47</container>
+                                <unittitle>Subject 3372:<title xlink:type="simple" render="italic">Waltzing Walker</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0045</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2514">
+                            <did>
+                                <container type="box">Box 48</container>
+                                <unittitle>Subject 3374-B:<title xlink:type="simple" render="italic">Yale Laundry</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0046</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2530">
+                            <did>
+                                <container type="box">Box 49</container>
+                                <unittitle>Subject 3374-C:<title xlink:type="simple" render="italic">Yale Laundry</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0046A</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2546">
+                            <did>
+                                <container type="box">Box 50</container>
+                                <unittitle>Subject 1337:<title xlink:type="simple" render="italic">Energizer</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1907</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0047</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2562">
+                            <did>
+                                <container type="box">Box 51</container>
+                                <unittitle>Subject X-247:<title xlink:type="simple" render="italic">Motion Pictures Patents Company Meeting</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0048</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2578">
+                            <did>
+                                <container type="box">Box 52</container>
+                                <unittitle>Subject G-319-B:<title xlink:type="simple" render="italic">False Alarm, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1905</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0049</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2594">
+                            <did>
+                                <container type="box">Box 53</container>
+                                <unittitle>Subject 7032:<title xlink:type="simple" render="italic">Her Morning Exercise</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0023:0050</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2611">
+                            <did>
+                                <container type="box">Box 54</container>
+                                <unittitle>Subject 7037:<title xlink:type="simple" render="italic">Eve's Temptation</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0051</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2627">
+                            <did>
+                                <container type="box">Box 55</container>
+                                <unittitle>Subject 7116:<title xlink:type="simple" render="italic">Love Conjuror, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0052</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2643">
+                            <did>
+                                <container type="box">Box 56</container>
+                                <unittitle>Subject 7134:<title xlink:type="simple" render="italic">After the Bath</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0053</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2659">
+                            <did>
+                                <container type="box">Box 57</container>
+                                <unittitle>Subject 7141:<title xlink:type="simple" render="italic">Call of Love, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0054</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2675">
+                            <did>
+                                <container type="box">Box 58</container>
+                                <unittitle>Subject 7148:<title xlink:type="simple" render="italic">Why Men Leave Home</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0055</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2691">
+                            <did>
+                                <container type="box">Box 59</container>
+                                <unittitle>Subject 7295:<title xlink:type="simple" render="italic">Stunning Wallop, A</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0056</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2707">
+                            <did>
+                                <container type="box">Box 60</container>
+                                <unittitle>Subject 7344:<title xlink:type="simple" render="italic">Ladies' Night in a Turkish Bath</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0057</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2723">
+                            <did>
+                                <container type="box">Box 61</container>
+                                <unittitle>Subject 7345:<title xlink:type="simple" render="italic">Her Morning Ablutions</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0058</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2739">
+                            <did>
+                                <container type="box">Box 62</container>
+                                <unittitle>Subject 7359:<title xlink:type="simple" render="italic">Interior Decorator, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0059</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2755">
+                            <did>
+                                <container type="box">Box 63</container>
+                                <unittitle>Subject 7567:<title xlink:type="simple" render="italic">Stolen Locomotive, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0060</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2771">
+                            <did>
+                                <container type="box">Box 64</container>
+                                <unittitle>Subject 7582:<title xlink:type="simple" render="italic">Saved by a Monkey Wrench</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0061</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2788">
+                            <did>
+                                <container type="box">Box 65</container>
+                                <unittitle>Subject 7583:<title xlink:type="simple" render="italic">Eve's Leaves</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0062</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2804">
+                            <did>
+                                <container type="box">Box 66</container>
+                                <unittitle>Subject 7587:<title xlink:type="simple" render="italic">Runaway Pullman Car</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0063</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2820">
+                            <did>
+                                <container type="box">Box 67</container>
+                                <unittitle>Subject 7598:<title xlink:type="simple" render="italic">In Dreamland</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0064</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2836">
+                            <did>
+                                <container type="box">Box 68</container>
+                                <unittitle>Subject 7599:<title xlink:type="simple" render="italic">Mexican Fandango</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0065</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2852">
+                            <did>
+                                <container type="box">Box 69</container>
+                                <unittitle>Subject 7662:<title xlink:type="simple" render="italic">Babes in the Woods</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0066</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2868">
+                            <did>
+                                <container type="box">Box 70</container>
+                                <unittitle>Subject 7688:<title xlink:type="simple" render="italic">Doctor's Office, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0067</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2884">
+                            <did>
+                                <container type="box">Box 71</container>
+                                <unittitle>Subject 7689:<title xlink:type="simple" render="italic">In the Cherry Orchard</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0068</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2900">
+                            <did>
+                                <container type="box">Box 72</container>
+                                <unittitle>Subject 7693:<title xlink:type="simple" render="italic">Pullman Up-to-Date</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0069</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2916">
+                            <did>
+                                <container type="box">Box 73</container>
+                                <unittitle>Subject 7705:<title xlink:type="simple" render="italic">Blonde Crazy</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1931</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0070</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2932">
+                            <did>
+                                <container type="box">Box 74</container>
+                                <unittitle>Subject G7351:<title xlink:type="simple" render="italic">Artist's Dream, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0071</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2948">
+                            <did>
+                                <container type="box">Box 75</container>
+                                <unittitle>Subject 7460:<title xlink:type="simple" render="italic">In the Nick of Time</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0072</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2965">
+                            <did>
+                                <container type="box">Box 76</container>
+                                <unittitle>Subject 7562:<title xlink:type="simple" render="italic">Chased by the Howling Redskins</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0073</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2981">
+                            <did>
+                                <container type="box">Box 77</container>
+                                <unittitle>[Unknown Subject number]:<title xlink:type="simple" render="italic">Shooting Up the Town</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0074</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e2995">
+                            <did>
+                                <container type="box">Box 78</container>
+                                <unittitle>[Unknown Subject number]:<title xlink:type="simple" render="italic">Whispering Smith Rides</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0075</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3011">
+                            <did>
+                                <container type="box">Box 79</container>
+                                <unittitle>Subject 7366:<title xlink:type="simple" render="italic">Frontier Days</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1915</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0077</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3027">
+                            <did>
+                                <container type="box">Box 80</container>
+                                <unittitle>Subject 7369:<title xlink:type="simple" render="italic">Curse of Drink, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">1915</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0076</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3043">
+                            <did>
+                                <container type="box">Box 81</container>
+                                <unittitle>Subject 7106:<title xlink:type="simple" render="italic">Her Daily Dozen</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0078</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3059">
+                            <did>
+                                <container type="box">Box 82</container>
+                                <unittitle>Subject 7634:<title xlink:type="simple" render="italic">Magic Parasol, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0079</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3075">
+                            <did>
+                                <container type="box">Box 83</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unidentified Western Fragment]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0080</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3088">
+                            <did>
+                                <container type="box">Box 84</container>
+                                <unittitle>Subject 7335(?):<title xlink:type="simple" render="italic">Broadway Melody, The</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0081</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3104">
+                            <did>
+                                <container type="box">Box 86</container>
+                                <unittitle>Subject 7654:<title xlink:type="simple" render="italic">Electric Chair at Sing Sing</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>International Mutoscope Reel Company</p>
+                                <p>Accession No.: 1974:0023:0083</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3120">
+                            <did>
+                                <container type="box">Box 111</container>
+                                <unittitle>Subject 3370: [<title xlink:type="simple" render="italic">Girl $9.98</title>];</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1974:0223:0001</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3137">
+                            <did>
+                                <container type="box">Box 114</container>
+                                <unittitle>Subject 3355-A:<title xlink:type="simple" render="italic">Buys a Dog but Gets a "Lemon"</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>American Mutoscope and Biograph Company</p>
+                                <p>Accession No.: 1981:1138:0001</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e3153" level="subseries">
+                        <did>
+                            <unittitle>Sub-subseries 2, Created,,</unittitle>
+                            <unitdate type="inclusive" normal="1965">1965</unitdate>
+                            <unitdate type="inclusive" normal="1895/1976">undated</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Scope and Content</head>
+                            <p>Sub-subseries consists of reels created by Crockwell and intended for viewing in a Mutoscope machine.</p>
+                        </scopecontent>
+                        <c id="d1e3167">
+                            <did>
+                                <container type="box">85</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Animation No. 1</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0082</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3180">
+                            <did>
+                                <container type="box">87</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Wheel No. 1</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0084</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3193">
+                            <did>
+                                <container type="box">88</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Animation No. 2</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0085</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3206">
+                            <did>
+                                <container type="box">89</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Rose Spray-paint Reel</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0087</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3219">
+                            <did>
+                                <container type="box">90</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Playboy and Dancer Reel</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0088</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3232">
+                            <did>
+                                <container type="box">91</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Wheel No. 2</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0089</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3245">
+                            <did>
+                                <container type="box">92</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Wheel No. 3 (1965)</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0090</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3258">
+                            <did>
+                                <container type="box">93</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Duopusses</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0091</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3271">
+                            <did>
+                                <container type="box">94</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Mixed Animation and Printed Card Sequence</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0092</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3285">
+                            <did>
+                                <container type="box">95</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Wheel No. 4</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0093</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3298">
+                            <did>
+                                <container type="box">96</container>
+                                <unittitle>
+                                    <title xlink:type="simple" render="italic">Crockwell Color Wheel No. 5</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Accession No.: 1974:0023:0094</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+                <c id="d1e3311" level="subseries">
+                    <did>
+                        <unittitle>Subseries 3, Flip Books,,,,</unittitle>
+                        <unitdate type="inclusive" normal="1968">1968</unitdate>
+                        <unitdate type="inclusive" normal="1969">1969</unitdate>
+                        <unitdate type="inclusive" normal="1904/1976">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Content</head>
+                        <p>Subseries includes flip books created by Crockwell (who sometimes referred to them as "Thumb Books") and other artists. It is possible unbound larger cards in this subseries were intended to be mounted onto a Mutoscope reel and viewed via a Mutoscope machine. Due to their size these cards have been physically arranged and described along with the flip books. Boxes C364A and C364B are nested inside C364.</p>
+                    </scopecontent>
+                    <c id="d1e3329">
+                        <did>
+                            <container type="box">C364a</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e3333">
+                            <did>
+                                <container type="folder">1</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Photographs from Crockwell's films]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Frame enlargements printed on Mutoscope cards.</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3346">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unknown artist]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3356">
+                            <did>
+                                <container type="folder">3</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[(Unfinished) Anne Ciccarelli]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3366">
+                            <did>
+                                <container type="folder">4</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Jane Fowler]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Cards 1-26</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3379">
+                            <did>
+                                <container type="folder">5</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Jane Fowler]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Cards 1-29</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3392">
+                            <did>
+                                <container type="folder">6</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Michelle Cherney]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3402">
+                            <did>
+                                <container type="folder">7</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Peep Stevens 3/26/68]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3412">
+                            <did>
+                                <container type="folder">8</container>
+                                <unittitle>
+                                    <title xlink:type="simple">["A Modern Melodrama: Death by Smog or Overpopulation" Gibson -- Mutoscope II]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3422">
+                            <did>
+                                <container type="folder">9</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Dolly Witherspoon]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3432">
+                            <did>
+                                <container type="folder">10</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unknown artist]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3443">
+                            <did>
+                                <container type="folder">11</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Carol Ann Holt]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3453">
+                            <did>
+                                <container type="folder">12</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Sherbrooke]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3463">
+                            <did>
+                                <container type="folder">13</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Sylvia Kaminski "The Kiss"]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3473">
+                            <did>
+                                <container type="folder">14</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Cecily Vaughan]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Cards 1-59</p>
+                            </scopecontent>
+                        </c>
+                        <c id="d1e3486">
+                            <did>
+                                <container type="folder">15</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Crockwell flip book materials]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>"An Early Painted Sequence" (photographs); "A Late Short Sequence" (photographs); Color Wheel #3 Stencil; photo; "Houdini Unchained" flip book.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e3499">
+                        <did>
+                            <container type="box">C364b</container>
+                             <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e3503">
+                            <did>
+                                <container type="folder">1</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unknown artist]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3513">
+                            <did>
+                                <container type="folder">2</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Claudia Struthers]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3523">
+                            <did>
+                                <container type="folder">3</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Mock-Ups &amp; Sketches for "Sun Rise" Thumbprint/Mutobook]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904/1976">undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3533">
+                            <did>
+                                <container type="folder">4</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unmounted Crockwell Mutoscope cards]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3543">
+                            <did>
+                                <container type="folder">5</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unmounted Crockwell Mutoscope cards]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3553">
+                            <did>
+                                <container type="folder">6</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unmounted Crockwell Mutoscope cards]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3563">
+                            <did>
+                                <container type="folder">7</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Unmounted Crockwell Mutoscope cards]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                        </c>
+                        <c id="d1e3573">
+                            <did>
+                                <unittitle>
+                                    <title xlink:type="simple">[9 Thumbprint flip books]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>8 titled<title xlink:type="simple" render="italic">Sun Rise</title>, 1 untitled</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c id="d1e3587">
+                        <did>
+                            <container type="drawer">Poster Drawer 47</container>
+                            <unittitle>no title</unittitle>
+                        </did>
+                        <c id="d1e3591">
+                            <did>
+                                <container type="folder">5</container>
+                                <unittitle>
+                                    <title xlink:type="simple">[Two sheets of uncut Douglass Crockwell flip books]</title>;</unittitle>
+                                <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1972">ca. 1967</unitdate>
+                            </did>
+                            <scopecontent>
+                                <p>Uncut flip book cards from<title xlink:type="simple" render="italic">Sun Rise</title>, and untitled flip books (see Box C364b for cut and assembled examples). Sheets originally misidentified as "Czech animation strips."</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                </c>
+            </c>
+            <c id="d1e3608" level="series">
+                <did>
+                    <unittitle>Series 4, Technology,</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Series includes Mutoscope machines, cameras and camera parts. For more information please contact the Curator of Technology at the George Eastman Museum, (585) 271-3361, ext. 369.</p>
+                </scopecontent>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
